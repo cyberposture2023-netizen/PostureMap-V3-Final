@@ -1,0 +1,38 @@
+﻿[
+    {
+        "status":  "compliant",
+        "docs":  [
+                     "SOC2 Type II",
+                     "ISO27001"
+                 ],
+        "name":  "Okta",
+        "service":  "Identity Provider",
+        "gaps":  [
+
+                 ]
+    },
+    {
+        "status":  "at risk",
+        "docs":  [
+                     "Self-Attestation Only"
+                 ],
+        "name":  "DemoVendor",
+        "service":  "Cloud Hosting",
+        "gaps":  [
+                     "No SOC2 report",
+                     "No penetration test evidence"
+                 ]
+    },
+    {
+        "status":  "compliant",
+        "docs":  [
+                     "SOC2 Type II",
+                     "FedRAMP Moderate"
+                 ],
+        "name":  "GitHub",
+        "service":  "Code Repository",
+        "gaps":  [
+
+                 ]
+    }
+]

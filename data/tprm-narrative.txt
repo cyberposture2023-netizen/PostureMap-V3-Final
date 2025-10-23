@@ -1,0 +1,8 @@
+﻿Third-Party Risk Management  DemoTenant
+
+Vendors evaluated:
+- Okta: compliant with SOC2 and ISO27001
+- DemoVendor: at risk due to missing SOC2 and penetration test evidence
+- GitHub: compliant with SOC2 and FedRAMP
+
+Summary: Third-party risk posture highlights DemoVendor as a gap requiring remediation.
