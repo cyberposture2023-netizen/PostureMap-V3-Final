@@ -1,2 +1,2 @@
 ﻿# intake-control-mapping placeholder
-Scaffolds logic for Step 55 in PostureMap roadmap.
+Scaffolds logic for Step 51 in PostureMap roadmap.

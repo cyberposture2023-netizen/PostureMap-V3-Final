@@ -1,2 +1,2 @@
 ﻿# ai-vendor-risk placeholder
-Scaffolds logic for Step 87 in PostureMap roadmap.
+Scaffolds logic for Step 92 in PostureMap roadmap.
