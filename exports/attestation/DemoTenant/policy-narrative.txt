@@ -1,0 +1,5 @@
+﻿Policy Hub  DemoTenant
+
+Policies have been generated for each evaluated control.
+They are linked to evidence metrics and thresholds, ensuring traceability.
+Policies are stored in docs/policies and are demo-ready for stakeholder review.

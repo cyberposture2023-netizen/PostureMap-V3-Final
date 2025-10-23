@@ -1,0 +1,9 @@
+﻿Executive Summary  DemoTenant
+
+Overall security posture is %.
+Identity and Cloud categories are strong performers.
+Vulnerability and Logging require prioritized remediation.
+Recommended next actions:
+1. Increase patch cadence to raise Vulnerability score.
+2. Expand log coverage and retention.
+3. Maintain MFA adoption to preserve Identity strength.

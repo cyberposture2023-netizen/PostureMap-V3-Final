@@ -1,0 +1,48 @@
+﻿{
+    "categories":  [
+                       {
+                           "score":  92,
+                           "name":  "Identity \u0026 Access",
+                           "id":  "identity",
+                           "framework":  "CIS/NIST"
+                       },
+                       {
+                           "score":  85,
+                           "name":  "Device Security",
+                           "id":  "device",
+                           "framework":  "CIS/NIST"
+                       },
+                       {
+                           "score":  78,
+                           "name":  "Vulnerability Mgmt",
+                           "id":  "vuln",
+                           "framework":  "CIS/NIST"
+                       },
+                       {
+                           "score":  88,
+                           "name":  "Cloud Security",
+                           "id":  "cloud",
+                           "framework":  "CIS/NIST"
+                       },
+                       {
+                           "score":  81,
+                           "name":  "Code \u0026 Application Sec",
+                           "id":  "codeapp",
+                           "framework":  "CIS/NIST"
+                       },
+                       {
+                           "score":  74,
+                           "name":  "Logging \u0026 Monitoring",
+                           "id":  "logs",
+                           "framework":  "CIS/NIST"
+                       }
+                   ],
+    "overall":  83,
+    "lastUpdated":  {
+                        "value":  "\/Date(1761249737360)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "Thursday, October 23, 2025 3:02:17 PM"
+                    },
+    "tenant":  "DemoTenant",
+    "mode":  "demo"
+}

@@ -1,0 +1,10 @@
+﻿Risk Register  DemoTenant
+
+The following risks were identified based on control evaluation:
+
+- [risk-RA-5.1] Control Vulnerability Scanning is Partial (Severity: 2)
+- [risk-AU-6.1] Control Log Retention is Partial (Severity: 2)
+
+
+Summary: Risks are dynamically generated from failing or partial controls.
+They are linked to evidence metrics and thresholds for traceability.

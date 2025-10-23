@@ -1,0 +1,22 @@
+﻿[
+    {
+        "id":  "risk-RA-5.1",
+        "title":  "Control Vulnerability Scanning is Partial",
+        "linkedControl":  "RA-5.1",
+        "severity":  2,
+        "status":  "open",
+        "evidence":  "vuln",
+        "score":  78,
+        "threshold":  85
+    },
+    {
+        "id":  "risk-AU-6.1",
+        "title":  "Control Log Retention is Partial",
+        "linkedControl":  "AU-6.1",
+        "severity":  2,
+        "status":  "open",
+        "evidence":  "logs",
+        "score":  74,
+        "threshold":  80
+    }
+]
