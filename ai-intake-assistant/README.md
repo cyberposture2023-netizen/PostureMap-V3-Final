@@ -1,2 +1,2 @@
-﻿# ai-intake-assistant module placeholder
-This folder scaffolds logic for step 48.
+﻿# ai-intake-assistant placeholder
+Scaffolds logic for Step 58 in PostureMap roadmap.

@@ -1,2 +1,2 @@
-﻿# ai-vendor-risk module placeholder
-This folder scaffolds logic for step 44.
+﻿# ai-vendor-risk placeholder
+Scaffolds logic for Step 55 in PostureMap roadmap.

@@ -1,2 +1,2 @@
-﻿# ai-dashboard-narratives module placeholder
-This folder scaffolds logic for step 47.
+﻿# ai-dashboard-narratives placeholder
+Scaffolds logic for Step 60 in PostureMap roadmap.
