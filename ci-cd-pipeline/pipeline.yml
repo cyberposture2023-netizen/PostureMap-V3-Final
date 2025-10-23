@@ -1,0 +1,13 @@
+﻿name: PostureMap CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Tests
+        run: pwsh ./testHarness.ps1
