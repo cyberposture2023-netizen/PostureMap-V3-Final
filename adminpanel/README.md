@@ -1,0 +1,1 @@
+﻿# adminpanel module placeholder
