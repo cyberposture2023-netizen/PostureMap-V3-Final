@@ -1,4 +1,4 @@
-﻿# PostureMap  Agile GRC & Security Posture Platform
+﻿# PostureMap — Agile GRC & Security Posture Platform
 
 ## Usage
 Run orchestrator script:
