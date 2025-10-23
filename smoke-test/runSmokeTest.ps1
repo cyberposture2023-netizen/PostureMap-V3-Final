@@ -1,6 +1,6 @@
 ﻿function RunSmokeTest {
     param([string]$tenantName)
-    $modules = 'intake', 'controls', 'risk', 'dashboard'
+    $modules = 'intake', 'controls', 'risk', 'dashboard', 'ai-review-engine'
     foreach ($m in $modules) {
         $path = \"tenants\\$tenantName\\$m\\\"
         if (-not (Test-Path $path)) {
