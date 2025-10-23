@@ -1,0 +1,14 @@
+﻿name: Validate Orchestrator
+
+on:
+  pull_request:
+  push:
+    branches: [ develop ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run orchestrator in dry-run mode
+        run: pwsh ./PostureMap-Orchestrator.ps1 -TenantName CI -Mode demo -DryRun

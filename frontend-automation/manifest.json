@@ -1,0 +1,62 @@
+﻿[
+    {
+        "vendors":  [
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable"
+                    ],
+        "category":  "Identity \u0026 Access"
+    },
+    {
+        "vendors":  [
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable"
+                    ],
+        "category":  "Device Management"
+    },
+    {
+        "vendors":  [
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable"
+                    ],
+        "category":  "Cloud Security"
+    },
+    {
+        "vendors":  [
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable"
+                    ],
+        "category":  "Vulnerability Management"
+    },
+    {
+        "vendors":  [
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable"
+                    ],
+        "category":  "Code \u0026 App Security"
+    },
+    {
+        "vendors":  [
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable",
+                        "System.Collections.Hashtable"
+                    ],
+        "category":  "Log Management"
+    }
+]
