@@ -1,0 +1,56 @@
+﻿[
+    {
+        "id":  "AC-1.2",
+        "name":  "MFA Enabled",
+        "category":  "Identity",
+        "evidence":  "identity",
+        "score":  92,
+        "threshold":  90,
+        "status":  "Pass"
+    },
+    {
+        "id":  "SI-2.1",
+        "name":  "Device Encryption",
+        "category":  "Device",
+        "evidence":  "device",
+        "score":  85,
+        "threshold":  80,
+        "status":  "Pass"
+    },
+    {
+        "id":  "RA-5.1",
+        "name":  "Vulnerability Scanning",
+        "category":  "Vuln",
+        "evidence":  "vuln",
+        "score":  78,
+        "threshold":  85,
+        "status":  "Partial"
+    },
+    {
+        "id":  "SC-7.1",
+        "name":  "Cloud Config Hardening",
+        "category":  "Cloud",
+        "evidence":  "cloud",
+        "score":  88,
+        "threshold":  85,
+        "status":  "Pass"
+    },
+    {
+        "id":  "SA-11.1",
+        "name":  "Secure Code Review",
+        "category":  "CodeApp",
+        "evidence":  "codeapp",
+        "score":  81,
+        "threshold":  80,
+        "status":  "Pass"
+    },
+    {
+        "id":  "AU-6.1",
+        "name":  "Log Retention",
+        "category":  "Logs",
+        "evidence":  "logs",
+        "score":  74,
+        "threshold":  80,
+        "status":  "Partial"
+    }
+]
