@@ -1,4 +1,2 @@
-﻿# Authentication Scaffolding
-- login.html
-- roles.json
-- sessionStub.ps1
+﻿# auth module placeholder
+This folder scaffolds logic for step 26.
