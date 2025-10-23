@@ -1,2 +1,2 @@
 ﻿# remediation-planner-ui placeholder
-Scaffolds logic for Step 107 in PostureMap roadmap.
+Scaffolds logic for Step 80 in PostureMap roadmap.

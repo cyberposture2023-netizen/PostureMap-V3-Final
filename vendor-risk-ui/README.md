@@ -1,2 +1,2 @@
 ﻿# vendor-risk-ui placeholder
-Scaffolds logic for Step 102 in PostureMap roadmap.
+Scaffolds logic for Step 75 in PostureMap roadmap.

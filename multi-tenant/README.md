@@ -1,2 +1,2 @@
-﻿# multi-tenant module placeholder
-This folder scaffolds logic for step 37.
+﻿# multi-tenant placeholder
+Scaffolds logic for Step 60 in PostureMap roadmap.

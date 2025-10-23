@@ -1,2 +1,2 @@
 ﻿# api-gateway placeholder
-Scaffolds logic for Step 61 in PostureMap roadmap.
+Scaffolds logic for Step 53 in PostureMap roadmap.
